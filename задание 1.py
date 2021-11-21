@@ -10,5 +10,6 @@ try:
     nomber(99,0)
 except ZeroDivisionError:
     print("0")
+#fsfsfsfsfsf
 
 
