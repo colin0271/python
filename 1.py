@@ -8,3 +8,4 @@ my_list = [12, None, -77, 'True', True, 9.5]
 for elem in my_list:
     print(type(elem))
 #my_type(my_list)
+#fsfsfsfsfsfsfs
